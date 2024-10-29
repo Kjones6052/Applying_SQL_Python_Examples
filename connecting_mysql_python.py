@@ -6,10 +6,10 @@ from mysql.connector import Error
 # Function to open a database connection
 def connect_database():
     # Database Connection Parameters:
-    db_name = "e_commerce_db"  # “your_dbname”
-    user = "root"              # “your_username”
-    password = "33Rafi77!"     # “your_password”
-    host = "localhost"         # “your_host”
+    db_name =   # “your_dbname”
+    user =      # “your_username”
+    password =  # “your_password”
+    host =      # “your_host”
 
 
     try: # Establishing the database connection
